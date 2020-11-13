@@ -10,3 +10,15 @@
 pyvenv.cfg
 .venv
 pip-selfcheck.json
+
+#pycache
+.installed.cfg
+bin
+develop-eggs
+dist
+downloads
+eggs
+parts
+src/*.egg-info
+lib
+lib64
